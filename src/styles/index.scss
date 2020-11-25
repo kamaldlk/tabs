@@ -1,0 +1,13 @@
+@import 'reset';
+html {
+  font-size: 10px;
+}
+
+html, body, #afRoot{
+  height: 100%;
+  overflow: hidden;
+}
+
+.appContainer{
+  height: 100%;
+}

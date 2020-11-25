@@ -1,0 +1,143 @@
+@import '../../../styles/variable';
+
+.container {
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+.tabsWrapper {
+  display: grid;
+  grid-template-columns: auto 1fr auto auto;
+  grid-column-gap: 1.2rem;
+  background: #f5f5f5;
+}
+
+.tabs {
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 1.5rem;
+  grid-auto-columns: max-content;
+  overflow: hidden;
+  .active{
+    color: $af-primary;
+  }
+}
+
+.tabContainer {
+  cursor: pointer;
+  font-size: 1.3rem !important;
+  font-weight: normal;
+  min-width: 10rem;
+  text-align: center;
+  position: relative;
+  .close{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    right: 0;
+    top: 0;
+    opacity: 0;
+  }
+  &:hover{
+    .close{
+      opacity: 1;
+      .closeIcon{
+        height: 1rem;
+        width: 1rem;
+      }
+    }
+  }
+}
+
+.tabContainer.disabled {
+  cursor: default;
+}
+
+.tabContent {
+  padding: .8rem .4rem;
+  color: $af-color-7;
+}
+
+.active{
+  .tabContent {
+    color: $af-primary-active;
+  }
+}
+
+.tabContent.placeholder {
+  color: $af-placeholder;
+}
+
+.tabContent.small {
+  padding: .4rem .4rem 0.2rem .4rem;
+  font-weight: 500;
+}
+
+.line.active {
+  background: $af-primary;
+}
+
+.tabContainer:hover:not(.disabled) .line:not(.active) {
+  background: $af-primary;
+}
+
+.line {
+  width: inherit;
+  height: 0.3rem;
+  background-image: none;
+  border-radius: 1.5px;
+}
+
+.line.small {
+  height: 0.2rem;
+  border-radius: 1px;
+}
+
+.iconContainer {
+  align-self: center;
+  display: grid;
+  align-items: center;
+  align-content: center;
+  justify-items: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.iconContainer.scroll {
+  border: 1px solid;
+  border-color: $af-border-color;
+}
+
+.iconContainer.scroll span {
+  cursor: pointer;
+}
+
+.iconContainer.scroll.disabled {
+  border: 1px solid;
+  border-color: $af-border-color;
+  cursor: default;
+}
+
+.iconContainer.scroll.disabled span {
+  cursor: default;
+}
+
+.iconContainer.scroll span * {
+  stroke: #333;
+}
+
+.iconContainer.scroll.disabled span * {
+  stroke: $af-border-color;
+}
+
+.iconContainer.add {
+  margin: 0 .4rem;
+  background: $af-primary;
+}
+
+.iconContainer.add span {
+  display: grid;
+  cursor: pointer;
+}

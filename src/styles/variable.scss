@@ -1,0 +1,113 @@
+@import 'fonts/proxima';
+
+$af-font-family:'Proxima', sans-serif, serif;
+$af-font-family-website:'SFUIDisplay', sans-serif, serif;
+$af-font-size: 1.4rem;
+
+$af-font-thin:100;
+$af-font-Light:300;
+$af-font-regular:400;
+$af-font-medium:500;
+$af-font-semibold:600;
+$af-font-bold:700;
+
+$af-primary:#2F99FB;
+$af-primary-color:#FFF;
+$af-primary-disabled:#ECE9F4;
+$af-primary-disabled-color:#D5D0E8;
+$af-primary-hover:#1c8bf1;
+$af-primary-active:#1c8bf1;
+$af-white:#FFF;
+$af-cancel: #E7EBF6;
+$af-cancel-hover:#DEE2EF; 
+$af-cancel-color:#0A132E;
+$af-cancel-disabled:#E7EBF6;
+$af-cancel-disabled-color:#B2BBD3;
+$af-cancel-active:#C3CADE;
+
+$af-secondary:rgba(70,50,136, 0.10);
+$af-link:#0565fe;
+$af-success:#00CF02;
+$af-warning:#FFC222 ;
+$af-error:#df4440;
+$af-info:#0565ff;
+$af-selected: #F0F1FF;
+$af-border-color:#DEE2EF;
+$af-placeholder:#C3CADE;
+$af-input-color:#171E35;
+$af-svg-fill:#95A1C2;
+$af-header-color: #091330; 
+$af-sub-header-color: #61656c;
+$af-menu-color:#6D799B;
+
+
+$af-color-1:#050C23;
+$af-color-2:#0A132E;
+$af-color-3:#171E35;
+$af-color-4:#262E48;
+$af-color-5:#3A435E;
+$af-color-6:#4E5874;
+$af-color-7:#6F7998;
+$af-color-8:#97A1BF;
+$af-color-9:#B2BBD3;
+$af-color-10:#C3CADE;
+$af-color-11:#CFD5E7;
+$af-color-12:#DEE2EF;
+$af-color-13:#E7EBF6;
+$af-color-14:#EAEDF7;
+$af-color-15:#F4F6FC;
+$af-color-16:#F9FBFF;
+$af-color-17:#ECF0FA;
+
+$af-color-1-lite:#fde6d2;
+$af-color-1-dark:#9f4d07;
+$af-color-2-lite:#d9eed8;
+$af-color-2-dark:#2c612b;
+$af-color-3-lite:#f9dad9;
+$af-color-3-dark:#931c19;
+$af-color-4-lite:#e2e2f8;
+$af-color-4-dark:#27279e;
+$af-color-5-lite:#d2ddec;
+$af-color-5-dark:#080e19;
+$af-color-6-lite:#deeaff;
+$af-color-6-dark:#003c9c;
+$af-color-7-lite:#E2DFEC;
+$af-color-7-dark:#463288;
+
+$af-tile-1-lite:#DCF6EE;
+$af-tile-1-dark: #53BA87;
+$af-tile-2-lite:#FCEDF4;
+$af-tile-2-dark: #ED5C94;
+$af-tile-3-lite:#EDF1FD;
+$af-tile-3-dark: #3D64E1;
+$af-tile-4-lite:#E8F9FE;
+$af-tile-4-dark: #49B8E5;
+$af-tile-5-lite:#FCEEE6;
+$af-tile-5-dark: #EF6837;
+
+$af-card-color-1: rgba(41,203,151,0.10);
+$af-card-color-2: rgba(79,122,255,0.10);
+$af-card-color-3: rgba(252,105,42,0.10);
+$af-card-color-4:rgba(255,95,149,0.10);
+$af-card-color-5: rgba(59,205,249,0.10);
+
+$af-facebook-lite:#EEF6FF;
+$af-facebook-mid:#E2EFFD;
+$af-facebook-dark:#2083F6;
+
+$af-linked-lite:#EBF8FE;
+$af-linked-mid:#DDF1FC;
+$af-linked-dark:#2B81C4;
+
+$af-twitter-lite:#E8F9FE;
+$af-twitter-mid:#DBF5FD;
+$af-twitter-dark:#48BBF7;
+
+$af-instagram-lite:#FDF5F6;
+$af-instagram-mid:#FBEAED;
+$af-instagram-dark:#ED4364;
+
+$af-input-shadow: 0 0 4px 2px rgba(71,47,151, .16);
+$af-btn-primary-shadow: 0 0 4px 2px rgba(71,47,151, .16);
+$af-btn-cancel-shadow: 0 0 4px 2px rgba(244,246,252,1);
+$af-shadow-1: 0 1px 4px 0 #d2ddec;

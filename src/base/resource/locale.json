@@ -1,0 +1,4746 @@
+[{
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Afrikaans",
+    "_id": "af"
+  },
+  {
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Afrikaans (Namibia)",
+    "_id": "af-NA"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Amharic",
+    "_id": "am"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic",
+    "_id": "ar"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (United Arab Emirates)",
+    "_id": "ar-AE"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Bahrain)",
+    "_id": "ar-BH"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Djibouti)",
+    "_id": "ar-DJ"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Arabic (Algeria)",
+    "_id": "ar-DZ"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Egypt)",
+    "_id": "ar-EG"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Western Sahara)",
+    "_id": "ar-EH"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Eritrea)",
+    "_id": "ar-ER"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Israel)",
+    "_id": "ar-IL"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Iraq)",
+    "_id": "ar-IQ"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Jordan)",
+    "_id": "ar-JO"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Comoros)",
+    "_id": "ar-KM"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Kuwait)",
+    "_id": "ar-KW"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Arabic (Lebanon)",
+    "_id": "ar-LB"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Arabic (Libya)",
+    "_id": "ar-LY"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Arabic (Morocco)",
+    "_id": "ar-MA"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Arabic (Mauritania)",
+    "_id": "ar-MR"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Oman)",
+    "_id": "ar-OM"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Palestinian Territories)",
+    "_id": "ar-PS"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Qatar)",
+    "_id": "ar-QA"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Saudi Arabia)",
+    "_id": "ar-SA"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Sudan)",
+    "_id": "ar-SD"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Somalia)",
+    "_id": "ar-SO"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (South Sudan)",
+    "_id": "ar-SS"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Syria)",
+    "_id": "ar-SY"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Chad)",
+    "_id": "ar-TD"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Arabic (Tunisia)",
+    "_id": "ar-TN"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Arabic (Yemen)",
+    "_id": "ar-YE"
+  },
+  {
+    "Date": {
+      "DateFormat": "d-M-y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "a h.mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Assamese",
+    "_id": "as"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Azerbaijani",
+    "_id": "az"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Azerbaijani",
+    "_id": "az-Latn"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Belarusian",
+    "_id": "be"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.MM.yy [г].",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "H:mm [ч]."
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Bulgarian",
+    "_id": "bg"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Bangla",
+    "_id": "bn"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Bangla (India)",
+    "_id": "bn-IN"
+  },
+  {
+    "Date": {
+      "DateFormat": "d. M. y.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Bosnian",
+    "_id": "bs"
+  },
+  {
+    "Date": {
+      "DateFormat": "d. M. y.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Bosnian",
+    "_id": "bs-Latn"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Catalan",
+    "_id": "ca"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Catalan (Andorra)",
+    "_id": "ca-AD"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Catalan (Spain)",
+    "_id": "ca-ES-VALENCIA"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Catalan (France)",
+    "_id": "ca-FR"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Catalan (Italy)",
+    "_id": "ca-IT"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Czech",
+    "_id": "cs"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Welsh",
+    "_id": "cy"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH.mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Danish",
+    "_id": "da"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH.mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Danish (Greenland)",
+    "_id": "da-GL"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "German",
+    "_id": "de"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "German (Austria)",
+    "_id": "de-AT"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "German (Belgium)",
+    "_id": "de-BE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": "’"
+    },
+    "Name": "German (Switzerland)",
+    "_id": "de-CH"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "German (Italy)",
+    "_id": "de-IT"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": "’"
+    },
+    "Name": "German (Liechtenstein)",
+    "_id": "de-LI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "German (Luxembourg)",
+    "_id": "de-LU"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Greek",
+    "_id": "el"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Greek (Cyprus)",
+    "_id": "el-CY"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English",
+    "_id": "en"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (World)",
+    "_id": "en-001"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "English (Europe)",
+    "_id": "en-150"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Antigua & Barbuda)",
+    "_id": "en-AG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Anguilla)",
+    "_id": "en-AI"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (American Samoa)",
+    "_id": "en-AS"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "English (Austria)",
+    "_id": "en-AT"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Australia)",
+    "_id": "en-AU"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Barbados)",
+    "_id": "en-BB"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "English (Belgium)",
+    "_id": "en-BE"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Burundi)",
+    "_id": "en-BI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Bermuda)",
+    "_id": "en-BM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Bahamas)",
+    "_id": "en-BS"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Botswana)",
+    "_id": "en-BW"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Belize)",
+    "_id": "en-BZ"
+  },
+  {
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Canada)",
+    "_id": "en-CA"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Cocos (Keeling) Islands)",
+    "_id": "en-CC"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "English (Switzerland)",
+    "_id": "en-CH"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Cook Islands)",
+    "_id": "en-CK"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Cameroon)",
+    "_id": "en-CM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Christmas Island)",
+    "_id": "en-CX"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Cyprus)",
+    "_id": "en-CY"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "English (Germany)",
+    "_id": "en-DE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Diego Garcia)",
+    "_id": "en-DG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH.mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "English (Denmark)",
+    "_id": "en-DK"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Dominica)",
+    "_id": "en-DM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Eritrea)",
+    "_id": "en-ER"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "H.mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "English (Finland)",
+    "_id": "en-FI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Fiji)",
+    "_id": "en-FJ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Falkland Islands)",
+    "_id": "en-FK"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Micronesia)",
+    "_id": "en-FM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (United Kingdom)",
+    "_id": "en-GB"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Grenada)",
+    "_id": "en-GD"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Guernsey)",
+    "_id": "en-GG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Ghana)",
+    "_id": "en-GH"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Gibraltar)",
+    "_id": "en-GI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Gambia)",
+    "_id": "en-GM"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Guam)",
+    "_id": "en-GU"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Guyana)",
+    "_id": "en-GY"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Hong Kong SAR China)",
+    "_id": "en-HK"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Ireland)",
+    "_id": "en-IE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Israel)",
+    "_id": "en-IL"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Isle of Man)",
+    "_id": "en-IM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (India)",
+    "_id": "en-IN"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (British Indian Ocean Territory)",
+    "_id": "en-IO"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Jersey)",
+    "_id": "en-JE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Jamaica)",
+    "_id": "en-JM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Kenya)",
+    "_id": "en-KE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Kiribati)",
+    "_id": "en-KI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (St. Kitts & Nevis)",
+    "_id": "en-KN"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Cayman Islands)",
+    "_id": "en-KY"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (St. Lucia)",
+    "_id": "en-LC"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Liberia)",
+    "_id": "en-LR"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Lesotho)",
+    "_id": "en-LS"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Madagascar)",
+    "_id": "en-MG"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Marshall Islands)",
+    "_id": "en-MH"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Macau SAR China)",
+    "_id": "en-MO"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Northern Mariana Islands)",
+    "_id": "en-MP"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Montserrat)",
+    "_id": "en-MS"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Malta)",
+    "_id": "en-MT"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Mauritius)",
+    "_id": "en-MU"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Malawi)",
+    "_id": "en-MW"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Malaysia)",
+    "_id": "en-MY"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Namibia)",
+    "_id": "en-NA"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Norfolk Island)",
+    "_id": "en-NF"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Nigeria)",
+    "_id": "en-NG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "English (Netherlands)",
+    "_id": "en-NL"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Nauru)",
+    "_id": "en-NR"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Niue)",
+    "_id": "en-NU"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (New Zealand)",
+    "_id": "en-NZ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Papua New Guinea)",
+    "_id": "en-PG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Philippines)",
+    "_id": "en-PH"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Pakistan)",
+    "_id": "en-PK"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Pitcairn Islands)",
+    "_id": "en-PN"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Puerto Rico)",
+    "_id": "en-PR"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Palau)",
+    "_id": "en-PW"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Rwanda)",
+    "_id": "en-RW"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Solomon Islands)",
+    "_id": "en-SB"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Seychelles)",
+    "_id": "en-SC"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Sudan)",
+    "_id": "en-SD"
+  },
+  {
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "English (Sweden)",
+    "_id": "en-SE"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Singapore)",
+    "_id": "en-SG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (St. Helena)",
+    "_id": "en-SH"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "English (Slovenia)",
+    "_id": "en-SI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Sierra Leone)",
+    "_id": "en-SL"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (South Sudan)",
+    "_id": "en-SS"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Sint Maarten)",
+    "_id": "en-SX"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Swaziland)",
+    "_id": "en-SZ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Turks & Caicos Islands)",
+    "_id": "en-TC"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Tokelau)",
+    "_id": "en-TK"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Tonga)",
+    "_id": "en-TO"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Trinidad & Tobago)",
+    "_id": "en-TT"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Tuvalu)",
+    "_id": "en-TV"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Tanzania)",
+    "_id": "en-TZ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Uganda)",
+    "_id": "en-UG"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (U.S. Outlying Islands)",
+    "_id": "en-UM"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (United States)",
+    "_id": "en-US"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (St. Vincent & Grenadines)",
+    "_id": "en-VC"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (British Virgin Islands)",
+    "_id": "en-VG"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (U.S. Virgin Islands)",
+    "_id": "en-VI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Vanuatu)",
+    "_id": "en-VU"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Samoa)",
+    "_id": "en-WS"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/MM/dd",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "English (South Africa)",
+    "_id": "en-ZA"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Zambia)",
+    "_id": "en-ZM"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "English (Zimbabwe)",
+    "_id": "en-ZW"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish",
+    "_id": "es"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Latin America)",
+    "_id": "es-419"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Argentina)",
+    "_id": "es-AR"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Bolivia)",
+    "_id": "es-BO"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Brazil)",
+    "_id": "es-BR"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Belize)",
+    "_id": "es-BZ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Chile)",
+    "_id": "es-CL"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Colombia)",
+    "_id": "es-CO"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Spanish (Costa Rica)",
+    "_id": "es-CR"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Cuba)",
+    "_id": "es-CU"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Dominican Republic)",
+    "_id": "es-DO"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Ceuta & Melilla)",
+    "_id": "es-EA"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Ecuador)",
+    "_id": "es-EC"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Equatorial Guinea)",
+    "_id": "es-GQ"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/MM/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Guatemala)",
+    "_id": "es-GT"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Honduras)",
+    "_id": "es-HN"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Canary Islands)",
+    "_id": "es-IC"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Mexico)",
+    "_id": "es-MX"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Nicaragua)",
+    "_id": "es-NI"
+  },
+  {
+    "Date": {
+      "DateFormat": "MM/dd/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Panama)",
+    "_id": "es-PA"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/MM/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Peru)",
+    "_id": "es-PE"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Philippines)",
+    "_id": "es-PH"
+  },
+  {
+    "Date": {
+      "DateFormat": "MM/dd/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (Puerto Rico)",
+    "_id": "es-PR"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Paraguay)",
+    "_id": "es-PY"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (El Salvador)",
+    "_id": "es-SV"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Spanish (United States)",
+    "_id": "es-US"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Uruguay)",
+    "_id": "es-UY"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Spanish (Venezuela)",
+    "_id": "es-VE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Estonian",
+    "_id": "et"
+  },
+  {
+    "Date": {
+      "DateFormat": "yy/M/d",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Basque",
+    "_id": "eu"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/M/d",
+      "DateTimeFormat": "{1}، {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Persian",
+    "_id": "fa"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/M/d",
+      "DateTimeFormat": "{1}، {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Persian (Afghanistan)",
+    "_id": "fa-AF"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H.mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Finnish",
+    "_id": "fi"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Filipino",
+    "_id": "fil"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Faroese",
+    "_id": "fo"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Faroese (Denmark)",
+    "_id": "fo-DK"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French",
+    "_id": "fr"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/MM/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Belgium)",
+    "_id": "fr-BE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Burkina Faso)",
+    "_id": "fr-BF"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Burundi)",
+    "_id": "fr-BI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Benin)",
+    "_id": "fr-BJ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (St. Barthélemy)",
+    "_id": "fr-BL"
+  },
+  {
+    "Date": {
+      "DateFormat": "yy-MM-dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Canada)",
+    "_id": "fr-CA"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Congo - Kinshasa)",
+    "_id": "fr-CD"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Central African Republic)",
+    "_id": "fr-CF"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Congo - Brazzaville)",
+    "_id": "fr-CG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Switzerland)",
+    "_id": "fr-CH"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Côte d’Ivoire)",
+    "_id": "fr-CI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Cameroon)",
+    "_id": "fr-CM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Djibouti)",
+    "_id": "fr-DJ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Algeria)",
+    "_id": "fr-DZ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Gabon)",
+    "_id": "fr-GA"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (French Guiana)",
+    "_id": "fr-GF"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Guinea)",
+    "_id": "fr-GN"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Guadeloupe)",
+    "_id": "fr-GP"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Equatorial Guinea)",
+    "_id": "fr-GQ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Haiti)",
+    "_id": "fr-HT"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Comoros)",
+    "_id": "fr-KM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "French (Luxembourg)",
+    "_id": "fr-LU"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "French (Morocco)",
+    "_id": "fr-MA"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Monaco)",
+    "_id": "fr-MC"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (St. Martin)",
+    "_id": "fr-MF"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Madagascar)",
+    "_id": "fr-MG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Mali)",
+    "_id": "fr-ML"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Martinique)",
+    "_id": "fr-MQ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Mauritania)",
+    "_id": "fr-MR"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Mauritius)",
+    "_id": "fr-MU"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (New Caledonia)",
+    "_id": "fr-NC"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Niger)",
+    "_id": "fr-NE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (French Polynesia)",
+    "_id": "fr-PF"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (St. Pierre & Miquelon)",
+    "_id": "fr-PM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Réunion)",
+    "_id": "fr-RE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Rwanda)",
+    "_id": "fr-RW"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Seychelles)",
+    "_id": "fr-SC"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Senegal)",
+    "_id": "fr-SN"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Syria)",
+    "_id": "fr-SY"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Chad)",
+    "_id": "fr-TD"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Togo)",
+    "_id": "fr-TG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Tunisia)",
+    "_id": "fr-TN"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Vanuatu)",
+    "_id": "fr-VU"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Wallis & Futuna)",
+    "_id": "fr-WF"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "French (Mayotte)",
+    "_id": "fr-YT"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Irish",
+    "_id": "ga"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{0}, {1}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Galician",
+    "_id": "gl"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "hh:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Gujarati",
+    "_id": "gu"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Hebrew",
+    "_id": "he"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Hindi",
+    "_id": "hi"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd. MM. y.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Croatian",
+    "_id": "hr"
+  },
+  {
+    "Date": {
+      "DateFormat": "d. M. yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Croatian (Bosnia & Herzegovina)",
+    "_id": "hr-BA"
+  },
+  {
+    "Date": {
+      "DateFormat": "y. MM. dd.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Hungarian",
+    "_id": "hu"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Armenian",
+    "_id": "hy"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH.mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Indonesian",
+    "_id": "id"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Icelandic",
+    "_id": "is"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Italian",
+    "_id": "it"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": "’"
+    },
+    "Name": "Italian (Switzerland)",
+    "_id": "it-CH"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Italian (San Marino)",
+    "_id": "it-SM"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Italian (Vatican City)",
+    "_id": "it-VA"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/MM/dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Japanese",
+    "_id": "ja"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Georgian",
+    "_id": "ka"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Kazakh",
+    "_id": "kk"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Khmer",
+    "_id": "km"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "hh:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Kannada",
+    "_id": "kn"
+  },
+  {
+    "Date": {
+      "DateFormat": "yy. M. d.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "a h:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Korean",
+    "_id": "ko"
+  },
+  {
+    "Date": {
+      "DateFormat": "yy. M. d.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "a h:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Korean (North Korea)",
+    "_id": "ko-KP"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Kyrgyz",
+    "_id": "ky"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Lao",
+    "_id": "lo"
+  },
+  {
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Lithuanian",
+    "_id": "lt"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Latvian",
+    "_id": "lv"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.M.yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Macedonian",
+    "_id": "mk"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Malayalam",
+    "_id": "ml"
+  },
+  {
+    "Date": {
+      "DateFormat": "y.MM.dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Mongolian",
+    "_id": "mn"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Marathi",
+    "_id": "mr"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Malay",
+    "_id": "ms"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Malay (Brunei)",
+    "_id": "ms-BN"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Malay (Singapore)",
+    "_id": "ms-SG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "B H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Burmese",
+    "_id": "my"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Norwegian Bokmål",
+    "_id": "nb"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Norwegian Bokmål (Svalbard & Jan Mayen)",
+    "_id": "nb-SJ"
+  },
+  {
+    "Date": {
+      "DateFormat": "yy/M/d",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Nepali",
+    "_id": "ne"
+  },
+  {
+    "Date": {
+      "DateFormat": "yy/M/d",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Nepali (India)",
+    "_id": "ne-IN"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Dutch",
+    "_id": "nl"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Dutch (Aruba)",
+    "_id": "nl-AW"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Dutch (Belgium)",
+    "_id": "nl-BE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Dutch (Caribbean Netherlands)",
+    "_id": "nl-BQ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Dutch (Curaçao)",
+    "_id": "nl-CW"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Dutch (Suriname)",
+    "_id": "nl-SR"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Dutch (Sint Maarten)",
+    "_id": "nl-SX"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Odia",
+    "_id": "or"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Punjabi",
+    "_id": "pa"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Punjabi",
+    "_id": "pa-Guru"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Polish",
+    "_id": "pl"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/M/d",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Pashto",
+    "_id": "ps"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Portuguese (Brazil)",
+    "_id": "pt"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Angola)",
+    "_id": "pt-AO"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Switzerland)",
+    "_id": "pt-CH"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Cape Verde)",
+    "_id": "pt-CV"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Equatorial Guinea)",
+    "_id": "pt-GQ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Guinea-Bissau)",
+    "_id": "pt-GW"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Luxembourg)",
+    "_id": "pt-LU"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Macau SAR China)",
+    "_id": "pt-MO"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Mozambique)",
+    "_id": "pt-MZ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Portugal)",
+    "_id": "pt-PT"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (São Tomé & Príncipe)",
+    "_id": "pt-ST"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Portuguese (Timor-Leste)",
+    "_id": "pt-TL"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Romanian",
+    "_id": "ro"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Romanian (Moldova)",
+    "_id": "ro-MD"
+  },
+  {
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Root",
+    "_id": "root"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Russian",
+    "_id": "ru"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Russian (Belarus)",
+    "_id": "ru-BY"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Russian (Kyrgyzstan)",
+    "_id": "ru-KG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Russian (Kazakhstan)",
+    "_id": "ru-KZ"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Russian (Moldova)",
+    "_id": "ru-MD"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Russian (Ukraine)",
+    "_id": "ru-UA"
+  },
+  {
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Sindhi",
+    "_id": "sd"
+  },
+  {
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH.mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Sinhala",
+    "_id": "si"
+  },
+  {
+    "Date": {
+      "DateFormat": "d. M. y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "H:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Slovak",
+    "_id": "sk"
+  },
+  {
+    "Date": {
+      "DateFormat": "d. MM. yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Slovenian",
+    "_id": "sl"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Albanian",
+    "_id": "sq"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Albanian (Macedonia)",
+    "_id": "sq-MK"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Albanian (Kosovo)",
+    "_id": "sq-XK"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Serbian",
+    "_id": "sr"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Serbian",
+    "_id": "sr-Cyrl"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Serbian (Bosnia & Herzegovina)",
+    "_id": "sr-Cyrl-BA"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Serbian (Montenegro)",
+    "_id": "sr-Cyrl-ME"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Serbian (Kosovo)",
+    "_id": "sr-Cyrl-XK"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Serbian",
+    "_id": "sr-Latn"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Serbian (Bosnia & Herzegovina)",
+    "_id": "sr-Latn-BA"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Serbian (Montenegro)",
+    "_id": "sr-Latn-ME"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.M.yy.",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Serbian (Kosovo)",
+    "_id": "sr-Latn-XK"
+  },
+  {
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Swedish",
+    "_id": "sv"
+  },
+  {
+    "Date": {
+      "DateFormat": "y-MM-dd",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Swedish (Åland Islands)",
+    "_id": "sv-AX"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Swedish (Finland)",
+    "_id": "sv-FI"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Swahili",
+    "_id": "sw"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Swahili (Congo - Kinshasa)",
+    "_id": "sw-CD"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Swahili (Kenya)",
+    "_id": "sw-KE"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Swahili (Uganda)",
+    "_id": "sw-UG"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "a h:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Tamil",
+    "_id": "ta"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Tamil (Sri Lanka)",
+    "_id": "ta-LK"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "a h:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Tamil (Malaysia)",
+    "_id": "ta-MY"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "a h:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Tamil (Singapore)",
+    "_id": "ta-SG"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd-MM-yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Telugu",
+    "_id": "te"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Thai",
+    "_id": "th"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Turkmen",
+    "_id": "tk"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.MM.y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Turkish",
+    "_id": "tr"
+  },
+  {
+    "Date": {
+      "DateFormat": "d.MM.y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Turkish (Cyprus)",
+    "_id": "tr-CY"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd.MM.yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Ukrainian",
+    "_id": "uk"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Urdu",
+    "_id": "ur"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "h:mm a"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Urdu (India)",
+    "_id": "ur-IN"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Uzbek",
+    "_id": "uz"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1}, {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": " "
+    },
+    "Name": "Uzbek",
+    "_id": "uz-Latn"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/y",
+      "DateTimeFormat": "{0}, {1}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ",",
+      "GroupSeparator": "."
+    },
+    "Name": "Vietnamese",
+    "_id": "vi"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/M/d",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Cantonese",
+    "_id": "yue"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/M/d",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Cantonese",
+    "_id": "yue-Hant"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/M/d",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Chinese",
+    "_id": "zh"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/M/d",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Chinese",
+    "_id": "zh-Hans"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Chinese (Hong Kong SAR China)",
+    "_id": "zh-Hans-HK"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Chinese (Macau SAR China)",
+    "_id": "zh-Hans-MO"
+  },
+  {
+    "Date": {
+      "DateFormat": "dd/MM/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Chinese (Singapore)",
+    "_id": "zh-Hans-SG"
+  },
+  {
+    "Date": {
+      "DateFormat": "y/M/d",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Chinese",
+    "_id": "zh-Hant"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Chinese (Hong Kong SAR China)",
+    "_id": "zh-Hant-HK"
+  },
+  {
+    "Date": {
+      "DateFormat": "d/M/y",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "ah:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Chinese (Macau SAR China)",
+    "_id": "zh-Hant-MO"
+  },
+  {
+    "Date": {
+      "DateFormat": "M/d/yy",
+      "DateTimeFormat": "{1} {0}",
+      "TimeFormat": "HH:mm"
+    },
+    "Number": {
+      "DecimalSeparator": ".",
+      "GroupSeparator": ","
+    },
+    "Name": "Zulu",
+    "_id": "zu"
+  }
+]
